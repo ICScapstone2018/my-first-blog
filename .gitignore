@@ -1,0 +1,64 @@
+*.pyc
+*~
+__pycache__
+myvenv
+db.sqlite3
+/static
+.DS_Store
+.atom
+.docker
+.dotnet
+.gimp-2.8
+.nbi
+.nugent
+.oracle_jre_usage
+.templateengine
+.thumbnails
+.VirtualBox
+3D Objects
+AppData
+ApplicationData
+Contacts
+Cookies
+Creative\ Cloud\ Files
+Desktop
+Documents
+Downloads
+Dropbox
+Favorites
+IntelGraphicsProfiles
+Links
+Local\ Settings
+MicrosoftEdgeBackups
+Music
+My\ Documents
+My\ Online\ Documents
+NetHood
+onecoremsvsmon
+OneDrive
+Oracle
+Pictures
+PrintHood
+Recent
+Saved\ Games
+Searches
+SendTo
+source
+Start\ Menu
+Templates
+Videos
+VirtualBox\ VMs
+workspace
+.bash_history
+.bash_profile
+.bashrc
+.minttyrc
+driver.txt
+NTUSER.DAT
+NTUSER.DAT{d98531b6-ef32-11e7-a386-9457a5e01aff}.TM.blf
+NTUSER.DAT{d98531b6-ef32-11e7-a386-9457a5e01aff}.TMContainer00000000000000000001.regtrans-ms
+NTUSER.DAT{d98531b6-ef32-11e7-a386-9457a5e01aff}.TMContainer00000000000000000002.regtrans-ms
+ntuser.dat.LOG2
+ntuser.dat.LOG1
+ntuser.ini
+.nuget
